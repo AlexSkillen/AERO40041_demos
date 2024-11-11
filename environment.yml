@@ -6,6 +6,6 @@ dependencies:
   - xeus-python
   - pandas
   - bqplot
-  - matplotlib==3.9.2
-  - numpy==2.1.3
-  - jupyterquiz
+  - matplotlib
+  - numpy
+  - JupyterQuiz
