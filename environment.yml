@@ -8,3 +8,5 @@ dependencies:
   - bqplot
   - matplotlib
   - numpy
+  - jupyterlab_widgets
+  - ipywidgets
