@@ -7,7 +7,7 @@ dependencies:
   - pandas
   - bqplot
   - matplotlib
-  - numpy
+  - numpy=1.25.0
   - jupyterlab_widgets
   - ipywidgets
   - micropip
