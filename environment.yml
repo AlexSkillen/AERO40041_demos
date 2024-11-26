@@ -7,9 +7,9 @@ dependencies:
   - pandas
   - bqplot
   - matplotlib
-  - numpy=1.23.0
-  - scipy=1.3.2
+  - numpy=2.1.1
+  - scipy=1.11.1
   - jupyterlab_widgets
   - ipywidgets
   - micropip
-  - scikit-learn=1.1
+  - scikit-learn=1.1.3
