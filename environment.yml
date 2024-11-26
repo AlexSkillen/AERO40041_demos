@@ -11,4 +11,4 @@ dependencies:
   - jupyterlab_widgets
   - ipywidgets
   - micropip
-  - scikit-learn==1.1
+  - scikit-learn=1.1
